@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+		text-align:center;
+		font-size: 14px;
+		line-height: 30px;		
+		background-color: rgb(213,219,219);
+		font-family:"Times New Roman", Times, serif;
+		
+}
+
+#banner
+{
+	width: 1000px;
+	height: 54px;
+	border-radius:10px;
+	background-color:rgb(77,77,77);
+	text-align: left;
+	margin-top: 28px;
+	align:center;
+}
+
+ul#menu {
+    padding: 12px;
+	
+}
+
+ul#menu li {
+    display:inline;
+}
+
+ul#menu li a {
+    color: white;
+    padding: 10px;
+    margin-top: 100px;
+}
+
+ul#menu2 {
+    padding:12px;
+
+}
+
+ul#menu2 li {
+    display:inline;
+	padding:10px;
+	
+		
+}
+
+ul#menu2 li a{
+		float: right;
+		padding:10px;;
+		margin-top:-50px;
+}
+
+#banner2
+{
+	width: 1000px;
+	height: 500px;
+	border-radius:10px;
+	background-color:rgb(208, 228, 241);
+	margin-top:10px;
+	
+}
+
+h1
+{
+	float:left;
+	padding-top:45px;
+	margin-left:70px;
+		
+}
+
+h3
+{
+	float:left;
+	margin-top:100px;
+	margin-left:-340px;
+	
+}
+pre
+{
+	float:left;
+	margin-top:-10px;
+	margin-left:20px;
+	
+
+}
+button
+{
+	margin-left:-340px;
+	width:75px;
+   height:35px;
+	 padding:auto;
+    margin-top:350px; 
+	margin-right:350px
+}
+
+form p
+{
+	margin-left:20px;
+}
